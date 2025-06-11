@@ -14,5 +14,5 @@
 # Uncomment the following pattern to include output for all notebooks
 # **
  
-1_DataProcessing.ipynb
 2_modeling.ipynb
+1_DataProcessing.ipynb

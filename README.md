@@ -71,5 +71,5 @@ The final model is a CatBoostClassifier optimized using Optuna. Performance is m
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ifood-offer-prediction.git
-   cd ifood-offer-prediction
+   git clone https://github.com/isa3el/dataScience_case.git
+   

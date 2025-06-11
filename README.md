@@ -40,7 +40,7 @@ This notebook covers the complete data ingestion and preparation process:
 - Performs feature engineering including user engagement metrics and conversion rates
 - Unifies all data into a final modeling dataset
 
-### `2_DataModeling.py`
+### `2_modeling.py`
 
 This notebook performs the modeling and evaluation:
 - Defines the target variable (`is_offer_completed`)
